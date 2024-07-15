@@ -1,4 +1,4 @@
-<img src="https://github.com/the-panshu/Hospital/blob/main/GIT_UPLOAD_Health/logo3.png" alt="Your Logo" height="100">
+<img src="https://github.com/the-panshu/Hospital/blob/main/GIT_UPLOAD_Health/logo.png" alt="Your Logo" height="100">
 
 Health Matrix offers a comprehensive solution for booking appointments and managing hospital operations. Our platform streamlines scheduling, optimizes resource allocation, and enhances patient care.. 
 ## CONTRIBUTORS
